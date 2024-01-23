@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: "Golos-UI-Medium", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+html {
+  background: #dbead2;
+
+  transition-property: background;
+  transition-duration: 1s;
+
+  cursor: default;
+}
